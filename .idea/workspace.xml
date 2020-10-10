@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="156ffcf5-c61a-41a0-861f-813c459a16c3" name="Default Changelist" comment="" />
+    <list default="true" id="156ffcf5-c61a-41a0-861f-813c459a16c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +96,7 @@
       <workItem from="1602167008133" duration="199000" />
       <workItem from="1602167233337" duration="35753000" />
       <workItem from="1602322135001" duration="4470000" />
+      <workItem from="1602356673584" duration="58000" />
     </task>
     <servers />
   </component>
@@ -110,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="188" key="#Plugins" timestamp="1602322107477">

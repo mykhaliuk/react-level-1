@@ -32,9 +32,9 @@ _Multiple selection list._
 
 <br>
 
-## To run
+## To run project
 
-In the project directory, you can run:
+In the project directory, you should run:
 
 ### `yarn && yarn build && NODE_ENV=production npx serve -s build`
 
