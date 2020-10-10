@@ -36,14 +36,15 @@ _Multiple selection list._
 
 In the project directory, you should run:
 
+
+### `yarn && yarn start`
+
+Installs all dependencies and runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## or
+
 ### `yarn && yarn build && NODE_ENV=production npx serve -s build`
 
 Installs all dependencies and runs the app in the production mode _(to avoid double rendering)_ .<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
-
-## or
-
-### `yarn && yarn start`
-
-Install all dependencies and runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
