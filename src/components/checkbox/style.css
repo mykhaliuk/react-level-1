@@ -1,0 +1,10 @@
+.checkbox-list__item > label{
+  cursor: pointer;
+}
+
+.checkbox-list__item__input{
+  margin-right: 1rem;
+  transform: scale(1.6);
+  position: relative;
+  top: -2px;
+}

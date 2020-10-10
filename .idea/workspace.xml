@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="156ffcf5-c61a-41a0-861f-813c459a16c3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,10 +19,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1ibCfDb0FdjAcvo6B80cTzau70a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="compactDirectories" value="true" />
@@ -20,11 +36,52 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/checkbox-list" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.8.0/lib/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/checkbox-list" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/checkbox/" />
+      <recent name="$PROJECT_DIR$/src/components/checkbox-list" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,16 +92,65 @@
       <option name="presentableId" value="Default" />
       <updated>1602167006695</updated>
       <workItem from="1602167008133" duration="199000" />
+      <workItem from="1602167233337" duration="35753000" />
+      <workItem from="1602322135001" duration="4470000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="469" y="179" key="SettingsEditor" timestamp="1602167210305">
+    <state x="560" y="188" key="#Plugins" timestamp="1602322107477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602167210305" />
+    <state x="560" y="188" key="#Plugins/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602322107477" />
+    <state x="867" y="407" width="733" height="514" key="#Vim_Emulation" timestamp="1602323715717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="867" y="407" width="733" height="514" key="#Vim_Emulation/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602323715717" />
+    <state x="648" y="302" key="GistSnippet.InsertGistDialog" timestamp="1602241569258">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="302" key="GistSnippet.InsertGistDialog/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602241569258" />
+    <state width="1920" height="214" key="GridCell.Tab.0.bottom" timestamp="1602326609534">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602326609534" />
+    <state width="1920" height="214" key="GridCell.Tab.0.center" timestamp="1602326609531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="214" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602326609531" />
+    <state width="1920" height="214" key="GridCell.Tab.0.left" timestamp="1602326609530">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="214" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602326609530" />
+    <state width="1920" height="214" key="GridCell.Tab.0.right" timestamp="1602326609532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="214" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602326609532" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1602168368569">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602168368569" />
+    <state x="562" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602322689861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="562" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602322689861" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1602326609255">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1602326609255" />
   </component>
 </project>

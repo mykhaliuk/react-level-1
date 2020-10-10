@@ -1,0 +1,21 @@
+.checkbox-list {
+  margin: 1rem 0;
+  text-align: justify;
+  width: min(19vmax, 14rem);
+
+}
+
+.select-all {
+  --mb: 1.4rem;
+  padding-bottom: var(--mb);
+}
+
+.select-all::after {
+  content: "";
+  display: block;
+  width: 60%;
+  left: 2.2rem;
+  top: calc(var(--mb) / 2);
+  position: relative;
+  border-bottom: 1px solid #8397af;
+}
